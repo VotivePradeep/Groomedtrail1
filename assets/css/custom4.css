@@ -1,0 +1,147 @@
+.log-main-sec {
+  background: url(../images/map-home.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+  display: inline-block;
+  width: 100%;
+  padding: 0 0;
+  height: calc(100vh - 30px);
+  overflow: hidden;
+  background-repeat: no-repeat;
+  margin-bottom: -5px;
+}
+.col-md-offset-1 {
+  margin-left: 25.33333% !important;
+}
+.col-md-10 {
+    width:46.33333% !important;
+}
+.log-map {
+  height: 500px;
+}
+.log-bg-sec {
+    background: #fff;
+    overflow: hidden;
+    padding: 0 15px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+.col-md-6.col-sm-6.no-pad-log {
+    padding: 0;
+}
+.log-login {
+    display: inline-block;
+    width: 100%;
+}
+.map-overlay {
+  background: rgba(0, 0, 0, 0.48);
+  height: calc(100vh - 30px);
+  padding: 7vh 0;
+}
+.lg-fm-head {
+    display: inline-block;
+    width: 50%;
+    background: #387FCC;
+    color: #dedede;
+    padding: 15px 30px;
+    position: relative;
+    margin-top: 10px;
+}
+.lg-fm-head h3 {
+    margin: 0 0;
+    font-weight: 200;
+}
+.form-dv {
+    padding: 30px;
+    overflow: hidden;
+}
+.social-login ul {
+    padding: 0;
+}
+.form-dv input.form-control {
+    background: none;
+    border: 1px solid rgba(51, 51, 51, 0.37);
+}
+.form-dv label {
+    font-weight: 600;
+}
+.btn-main button.btn.btn-default {
+    background: #387fcc;
+    border: none;
+    border-radius: 0;
+    padding: 10px 25px;
+    color: #f3f3f3;
+    margin-top: 5px;
+    transition: all ease-in-out 200ms;
+    -webkit-transition: all ease-in-out 200ms;
+    -moz-transition: all ease-in-out 200ms;
+    -ms-transition: all ease-in-out 200ms;
+    -o-transition: all ease-in-out 200ms;
+}
+.sign-in-google, .sign-in-fb {
+    background: #d83737;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    margin-top: 15px;
+}
+.sign-in-google a, .sign-in-fb a {
+    width: 100%;
+    display: inline-block;
+    padding: 10px;
+    padding-left: 40px;
+    text-align: center;
+    color: #dedede;
+    transition: all ease-in-out 200ms;
+    -webkit-transition: all ease-in-out 200ms;
+    -moz-transition: all ease-in-out 200ms;
+    -ms-transition: all ease-in-out 200ms;
+    -o-transition: all ease-in-out 200ms;
+}
+.sign-in-google .fa, .sign-in-fb .fa {
+    position: absolute;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    padding: 12px 0;
+    background: #3a3a3a;
+    color: #d83737;
+}
+.sign-in-fb {
+    background: #387fcc;
+}
+.sign-in-fb .fa {
+    color: #387fcc;
+}
+.lo-logo-dv img {
+    width: 42%;
+    margin-left: 131px;
+    margin-top: 10px;
+}
+.btn-main button.btn.btn-default:hover {
+    background: #3a3a3a;
+}
+.sign-in-google a:hover, .sign-in-fb a:hover {
+    background: #3a3a3a;
+}
+@media screen and (max-width: 1199px){
+  .log-main-sec {
+    background-size: auto;
+    background-position: center;
+  }
+}
+@media screen and (max-width: 767px){
+  .log-main-sec {
+    height: initial;
+  }
+}
+@media screen and (max-width: 500px){
+  .lo-logo-dv {
+      width: 170px;
+      padding: 20px 10px;
+  }
+}
+.col-md-6 {
+    width: 100% !important;
+}

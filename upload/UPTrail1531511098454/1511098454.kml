@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>UP Trail 153</name>
+	<open>1</open>
+	<Folder>
+		<Placemark>
+			<name>&lt;Big&gt;UP Trail 153&lt;/Big&gt;&lt;sup&gt; Segment1 &lt;/sup&gt;</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-88.42013353683063,47.2540034954672,0 -88.42597069005126,47.24760863921904,0 -88.42749657659851,47.24593990815248,0 -88.42794897624316,47.24537701110609,0 -88.42821396920652,47.24493205848853,0 -88.42845996210082,47.24446799680146,0 -88.42870582499467,47.24390105974038,0 -88.42880582935823,47.24363080475786,0 -88.42892370478677,47.24324117734142,0 -88.42903494719116,47.24292482519133,0 -88.42910916146099,47.24272963848176,0 -88.42929012411884,47.24234181607181,0 -88.42937662143328,47.24209257516571,0 -88.42953091799421,47.2417858880508,0 -88.42989704632527,47.24122098499714,0 -88.43161046555429,47.23895276075115,0 -88.43321090937263,47.23685503912498,0 -88.43508072517022,47.23453852870347,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

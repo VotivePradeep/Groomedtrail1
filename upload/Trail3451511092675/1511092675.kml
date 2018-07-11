@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>Trail 345</name>
+	<Folder>
+		<Placemark>
+			<name>&lt;Big&gt;Trail 345&lt;/Big&gt;&lt;sup&gt; Segment1 &lt;/sup&gt;</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-85.90475231331101,44.13282046859098,0 -85.90484688665481,44.11913302283108,0 -85.90489371582504,44.11846598340605,0 -85.90517759185707,44.11827041969514,0 -85.91504328672323,44.11867545116758,0 -85.91540013902056,44.11848610847926,0 -85.91525721350092,44.1182232185235,0 -85.91537530193023,44.11356110857469,0 -85.9152126343389,44.11218377956749,0 -85.91443453951018,44.11031106875936,0 -85.91365707968373,44.10930687410865,0 -85.91293753106788,44.1077518494555,0 -85.90946915045879,44.10215519010916,0 -85.9090405749007,44.10065129964187,0 -85.90928159577692,44.09701452042054,0 -85.90912008718976,44.09646294441535,0 -85.9050993105725,44.09580614302757,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

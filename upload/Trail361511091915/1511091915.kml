@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>Trail 36</name>
+	<Folder>
+		<Placemark>
+			<name>&lt;Big&gt;Trail 36&lt;/Big&gt;&lt;sup&gt; Segment1 &lt;/sup&gt;</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-85.8261399475204,44.08863335095128,0 -85.82938677832408,44.0887774294751,0 -85.84376968361227,44.08878370349788,0 -85.84808114328632,44.08877178045458,0 -85.856131530553,44.08763592432524,0 -85.86107366251986,44.08874748736622,0 -85.88048413908547,44.08898164321749,0 -85.8810707552181,44.09067319236704,0 -85.88083282035308,44.0911380040568,0 -85.88086410846682,44.09166191396145,0 -85.88122081576364,44.09244023479101,0 -85.88270311015242,44.09354305880027,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>&lt;Big&gt;Trail 36&lt;/Big&gt;&lt;sup&gt; Segment2 &lt;/sup&gt;</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-85.87340882436359,44.12326547785438,0 -85.87712117585966,44.12527463715855,0 -85.88083478136025,44.12681184574694,0 -85.88772820642089,44.13105688117952,0 -85.89512679731803,44.13288436482327,0 -85.89865310013767,44.13332749343419,0 -85.89900393741311,44.13330109733823,0 -85.89927934641435,44.13286694775991,0 -85.89956772146275,44.13282164759522,0 -85.90475231331101,44.13282046859098,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,636 @@
+[27-May-2017 12:56:08 UTC] PHP Fatal error:  Call to a member function get_data() on a non-object in /home/groomedtrail/dev/application/controllers/administrator/Dashboard.php on line 36
+[29-May-2017 05:34:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/administrator/Dashboard.php on line 39
+[29-May-2017 05:34:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/administrator/Dashboard.php on line 39
+[29-May-2017 05:47:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Dashboard.php on line 86
+[30-May-2017 09:17:55 UTC] PHP Fatal error:  Call to undefined method Admin::get_lat_long() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 225
+[30-May-2017 09:48:06 UTC] PHP Fatal error:  Call to undefined method Model::get_row() in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 136
+[30-May-2017 11:28:05 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 197
+[30-May-2017 12:13:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/User.php on line 32
+[30-May-2017 12:30:02 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/User.php on line 29
+[30-May-2017 12:30:43 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/User.php on line 29
+[30-May-2017 12:31:41 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/User.php on line 30
+[30-May-2017 12:31:43 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/User.php on line 30
+[30-May-2017 12:31:44 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/User.php on line 30
+[30-May-2017 12:31:46 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/User.php on line 30
+[30-May-2017 12:35:00 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/groomedtrail/dev/application/views/include/top_header.php on line 11
+[30-May-2017 12:36:03 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/groomedtrail/dev/application/views/include/top_header.php on line 11
+[30-May-2017 12:36:14 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/groomedtrail/dev/application/views/include/top_header.php on line 11
+[30-May-2017 12:36:31 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/groomedtrail/dev/application/views/include/top_header.php on line 11
+[31-May-2017 04:31:54 UTC] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/groomedtrail/dev/application/controllers/Home.php on line 23
+[31-May-2017 04:31:57 UTC] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/groomedtrail/dev/application/controllers/Home.php on line 23
+[31-May-2017 06:23:26 UTC] PHP Fatal error:  Call to undefined method CI_Loader::viewde() in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 26
+[31-May-2017 06:23:34 UTC] PHP Fatal error:  Call to undefined method CI_Loader::viewde() in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 26
+[31-May-2017 13:04:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/POI/poi_add.php on line 85
+[31-May-2017 13:04:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/POI/poi_add.php on line 85
+[01-Jun-2017 09:32:28 UTC] PHP Fatal error:  Cannot redeclare Admin::dashboard() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 50
+[01-Jun-2017 10:43:14 UTC] PHP Fatal error:  Cannot redeclare Admin::userlist() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 66
+[01-Jun-2017 11:40:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 171
+[02-Jun-2017 07:20:45 UTC] PHP Parse error:  syntax error, unexpected ''admini' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 101
+[03-Jun-2017 06:01:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 95
+[03-Jun-2017 06:16:55 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/groomedtrail/dev/application/views/administrator/usermanagement/userlist.php on line 44
+[03-Jun-2017 06:33:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/usermanagement/userlist.php on line 56
+[03-Jun-2017 06:36:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/usermanagement/userlist.php on line 134
+[03-Jun-2017 06:36:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/usermanagement/userlist.php on line 134
+[03-Jun-2017 06:41:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/usermanagement/userlist.php on line 155
+[03-Jun-2017 06:41:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/usermanagement/userlist.php on line 155
+[05-Jun-2017 12:01:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 96
+[06-Jun-2017 12:15:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 180
+[07-Jun-2017 08:45:35 UTC] PHP Fatal error:  Call to undefined method Model::getMultiple() in /home/groomedtrail/dev/application/controllers/User.php on line 95
+[07-Jun-2017 09:43:58 UTC] PHP Fatal error:  Cannot use [] for reading in /home/groomedtrail/dev/application/controllers/User.php on line 86
+[07-Jun-2017 09:44:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/groomedtrail/dev/application/controllers/User.php on line 86
+[07-Jun-2017 09:44:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/groomedtrail/dev/application/controllers/User.php on line 86
+[12-Jun-2017 09:42:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 62
+[12-Jun-2017 12:04:02 UTC] PHP Parse error:  syntax error, unexpected ''msg_succe' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/Home.php on line 176
+[13-Jun-2017 11:33:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/groomedtrail/dev/application/views/administrator/business/business.php on line 55
+[16-Jun-2017 05:38:54 UTC] PHP Parse error:  syntax error, unexpected '$post_data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 112
+[16-Jun-2017 05:39:07 UTC] PHP Parse error:  syntax error, unexpected '$post_data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 112
+[21-Jun-2017 05:31:24 UTC] PHP Fatal error:  Out of memory (allocated 3670016) (tried to allocate 47624 bytes) in /home/groomedtrail/dev/system/core/Loader.php on line 990
+[24-Jun-2017 05:46:24 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/views/include/top_header.php on line 49
+[24-Jun-2017 06:44:16 UTC] PHP Fatal error:  Call to undefined method Logincheck::create_dir() in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 383
+[27-Jun-2017 05:26:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 456
+[14-Jul-2017 05:48:32 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/libraries/Upload.php on line 1107
+[14-Jul-2017 05:48:54 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 573
+[14-Jul-2017 11:43:18 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/groomedtrail/dev/application/views/frontend/vacation/vac_list_main.php on line 37
+[14-Jul-2017 11:53:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/frontend/vacation/vac_list_main.php on line 88
+[15-Jul-2017 04:30:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/vacation/vac_list_main.php on line 112
+[15-Jul-2017 04:30:57 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/vacation/vac_list_main.php on line 112
+[15-Jul-2017 04:31:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/vacation/vac_list_main.php on line 112
+[15-Jul-2017 04:31:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/vacation/vac_list_main.php on line 112
+[17-Jul-2017 07:50:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 221
+[17-Jul-2017 08:54:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/groomedtrail/dev/application/views/user/profile.php on line 75
+[17-Jul-2017 12:30:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Home.php on line 330
+[17-Jul-2017 12:30:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Home.php on line 330
+[17-Jul-2017 12:30:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Home.php on line 330
+[17-Jul-2017 12:37:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 259
+[17-Jul-2017 13:16:19 UTC] PHP Fatal error:  Cannot redeclare User::deleteImage() in /home/groomedtrail/dev/application/controllers/User.php on line 910
+[17-Jul-2017 13:16:21 UTC] PHP Fatal error:  Cannot redeclare User::deleteImage() in /home/groomedtrail/dev/application/controllers/User.php on line 910
+[18-Jul-2017 05:51:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/groomedtrail/dev/application/controllers/User.php on line 458
+[18-Jul-2017 06:03:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/event/event.php on line 68
+[18-Jul-2017 11:53:30 UTC] PHP Fatal error:  Call to undefined method Admin::insertMultipleImage() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 933
+[18-Jul-2017 12:46:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 961
+[19-Jul-2017 07:22:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/event/event.php on line 39
+[19-Jul-2017 07:48:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 451
+[20-Jul-2017 07:00:58 UTC] PHP Fatal error:  Call to undefined method Model::paginationNews() in /home/groomedtrail/dev/application/controllers/Home.php on line 90
+[20-Jul-2017 12:53:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 199
+[20-Jul-2017 12:53:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 199
+[20-Jul-2017 12:54:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 199
+[20-Jul-2017 12:54:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 199
+[20-Jul-2017 12:55:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 199
+[20-Jul-2017 13:00:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 198
+[20-Jul-2017 13:01:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 198
+[25-Jul-2017 09:45:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 96
+[26-Jul-2017 05:10:32 UTC] PHP Parse error:  syntax error, unexpected ''bus' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 962
+[26-Jul-2017 10:42:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 484
+[26-Jul-2017 11:05:04 UTC] PHP Parse error:  syntax error, unexpected ''business_address' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 960
+[26-Jul-2017 12:52:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 952
+[27-Jul-2017 05:10:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 952
+[27-Jul-2017 12:49:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/frontend/trailreport/trailreportdetail.php on line 65
+[27-Jul-2017 12:50:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/frontend/trailreport/trailreportdetail.php on line 65
+[28-Jul-2017 06:43:22 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 496
+[28-Jul-2017 06:43:49 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 496
+[28-Jul-2017 07:18:53 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 418
+[28-Jul-2017 07:19:01 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 418
+[28-Jul-2017 07:19:28 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 418
+[28-Jul-2017 07:19:35 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 418
+[28-Jul-2017 08:55:18 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 352
+[28-Jul-2017 08:55:20 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 352
+[28-Jul-2017 08:55:24 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 352
+[28-Jul-2017 08:56:01 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 352
+[28-Jul-2017 08:56:02 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 352
+[29-Jul-2017 10:03:29 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 157
+[01-Aug-2017 05:52:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 770
+[01-Aug-2017 05:52:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 770
+[01-Aug-2017 05:52:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 770
+[01-Aug-2017 05:54:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 769
+[01-Aug-2017 05:54:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 770
+[01-Aug-2017 06:39:48 UTC] PHP Fatal error:  Out of memory (allocated 1310720) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Loader.php on line 1052
+[01-Aug-2017 07:02:01 UTC] PHP Fatal error:  Out of memory (allocated 1310720) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Loader.php on line 1052
+[01-Aug-2017 07:02:01 UTC] PHP Fatal error:  Out of memory (allocated 2359296) (tried to allocate 248 bytes) in /home/groomedtrail/dev/system/database/drivers/mysqli/mysqli_driver.php on line 544
+[01-Aug-2017 07:02:01 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 680
+[01-Aug-2017 07:02:01 UTC] PHP Fatal error:  Out of memory (allocated 3670016) (tried to allocate 72 bytes) in /home/groomedtrail/dev/system/database/drivers/mysqli/mysqli_result.php on line 183
+[01-Aug-2017 07:02:01 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 3072 bytes) in /home/groomedtrail/dev/system/libraries/Upload.php on line 311
+[01-Aug-2017 07:02:01 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 3072 bytes) in /home/groomedtrail/dev/system/libraries/Upload.php on line 311
+[01-Aug-2017 07:02:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/imagick.so' - libtiff.so.3: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[01-Aug-2017 07:02:01 UTC] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Input.php on line 638
+[01-Aug-2017 07:02:01 UTC] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Input.php on line 638
+[01-Aug-2017 07:02:02 UTC] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/CodeIgniter.php on line 113
+[01-Aug-2017 07:02:02 UTC] PHP Fatal error:  Out of memory (allocated 1572864) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/application/helpers/email_helper.php on line 184
+[01-Aug-2017 07:02:02 UTC] PHP Fatal error:  Out of memory (allocated 1572864) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/application/helpers/email_helper.php on line 184
+[01-Aug-2017 07:02:02 UTC] PHP Fatal error:  Out of memory (allocated 1310720) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Loader.php on line 1052
+[01-Aug-2017 07:02:02 UTC] PHP Fatal error:  Out of memory (allocated 1310720) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Loader.php on line 1052
+[01-Aug-2017 07:02:02 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 680
+[01-Aug-2017 07:02:02 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 680
+[01-Aug-2017 07:02:03 UTC] PHP Fatal error:  Out of memory (allocated 3407872) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/libraries/Email.php on line 1982
+[01-Aug-2017 07:02:03 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 3072 bytes) in /home/groomedtrail/dev/system/libraries/Upload.php on line 311
+[01-Aug-2017 07:02:03 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 3072 bytes) in /home/groomedtrail/dev/system/libraries/Upload.php on line 311
+[03-Aug-2017 10:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/map.php on line 75
+[03-Aug-2017 10:56:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/map.php on line 78
+[03-Aug-2017 10:56:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/map.php on line 78
+[03-Aug-2017 12:34:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/groomedtrail/dev/application/views/map.php on line 94
+[09-Aug-2017 12:30:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 549
+[09-Aug-2017 12:30:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 549
+[09-Aug-2017 12:31:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 549
+[09-Aug-2017 13:02:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/POI/pois.php on line 56
+[09-Aug-2017 13:03:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/POI/pois.php on line 56
+[11-Aug-2017 09:21:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 272
+[11-Aug-2017 09:21:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 272
+[11-Aug-2017 09:22:09 UTC] PHP Warning:  Unterminated comment starting line 108 in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 108
+[11-Aug-2017 09:33:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 62
+[22-Aug-2017 13:44:36 UTC] PHP Warning:  POST Content-Length of 32230499 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Aug-2017 13:45:58 UTC] PHP Warning:  POST Content-Length of 32230499 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[24-Aug-2017 12:40:30 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Paypal.php on line 68
+[25-Aug-2017 06:26:32 UTC] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/groomedtrail/dev/application/views/administrator/traillist/trailreport.php on line 70
+[25-Aug-2017 06:26:39 UTC] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/groomedtrail/dev/application/views/administrator/traillist/trailreport.php on line 70
+[25-Aug-2017 06:27:46 UTC] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/groomedtrail/dev/application/views/administrator/traillist/trailreport.php on line 70
+[29-Aug-2017 12:10:16 UTC] PHP Fatal error:  Call to undefined method Model::get_lodging() in /home/groomedtrail/dev/application/controllers/Home.php on line 266
+[29-Aug-2017 12:10:19 UTC] PHP Fatal error:  Call to undefined method Model::get_lodging() in /home/groomedtrail/dev/application/controllers/Home.php on line 266
+[31-Aug-2017 02:41:10 UTC] PHP Warning:  POST Content-Length of 32230401 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-Aug-2017 02:42:10 UTC] PHP Warning:  POST Content-Length of 32230411 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-Aug-2017 02:55:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55361594 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 02:55:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55361594 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 02:55:49 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55361594 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 02:55:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55361594 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 03:00:59 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55361594 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 03:10:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55361594 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:42:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:42:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:42:43 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:42:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:42:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:00 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:07 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:21 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:36 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:40 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:46 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:43:59 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:02 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:09 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:17 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:36 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:39 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:45 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:48 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:44:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:01 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:15 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:45:57 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:46:00 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:46:48 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 05:54:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:20:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:20:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:20:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55362304 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:24:09 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55362304 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:24:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:24:39 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:27:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:30:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:34:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:34:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[31-Aug-2017 06:38:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 55363232 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 457
+[21-Sep-2017 13:03:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 878
+[21-Sep-2017 13:23:22 UTC] PHP Parse error:  syntax error, unexpected ''">Review Change<' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/views/administrator/traillist/traillist.php on line 248
+[25-Sep-2017 06:38:38 UTC] PHP Warning:  Unterminated comment starting line 1337 in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1337
+[25-Sep-2017 06:38:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1338
+[25-Sep-2017 06:53:39 UTC] PHP Parse error:  syntax error, unexpected ''news_creat' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 888
+[25-Sep-2017 12:35:00 UTC] PHP Parse error:  syntax error, unexpected ''administra' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 874
+[25-Sep-2017 12:40:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/administrator/statemanagement/state_add.php on line 28
+[25-Sep-2017 12:41:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/administrator/statemanagement/state_add.php on line 28
+[25-Sep-2017 12:41:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/administrator/statemanagement/state_add.php on line 28
+[27-Sep-2017 07:56:10 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1878
+[27-Sep-2017 07:56:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 455
+[27-Sep-2017 07:58:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 455
+[27-Sep-2017 08:00:00 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1878
+[27-Sep-2017 08:00:00 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1878
+[27-Sep-2017 09:21:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 455
+[27-Sep-2017 09:27:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1303
+[28-Sep-2017 05:55:53 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/User.php on line 469
+[28-Sep-2017 09:21:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 453
+[05-Oct-2017 07:39:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 520
+[05-Oct-2017 07:40:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 520
+[05-Oct-2017 07:43:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 520
+[05-Oct-2017 07:44:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 520
+[05-Oct-2017 07:46:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 520
+[05-Oct-2017 07:46:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 520
+[05-Oct-2017 07:46:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 520
+[05-Oct-2017 07:48:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 520
+[05-Oct-2017 09:23:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/Paypal.php on line 69
+[05-Oct-2017 09:27:18 UTC] PHP Fatal error:  Call to undefined function sendingMail() in /home/groomedtrail/dev/application/controllers/Paypal.php on line 70
+[05-Oct-2017 09:28:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/groomedtrail/dev/application/helpers/custom_helper.php on line 30
+[05-Oct-2017 11:33:23 UTC] PHP Parse error:  syntax error, unexpected '$updatewhere' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Paypal.php on line 59
+[05-Oct-2017 13:22:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 875
+[05-Oct-2017 13:24:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 460
+[07-Oct-2017 11:12:00 UTC] PHP Fatal error:  Call to undefined method User::create_dir() in /home/groomedtrail/dev/application/controllers/User.php on line 417
+[09-Oct-2017 09:33:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1315
+[09-Oct-2017 09:35:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 877
+[09-Oct-2017 09:52:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 460
+[09-Oct-2017 13:21:48 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 59
+[09-Oct-2017 13:21:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 59
+[10-Oct-2017 07:26:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/vacation/vac_detail.php on line 438
+[10-Oct-2017 09:57:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 451
+[10-Oct-2017 11:31:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 451
+[11-Oct-2017 09:50:31 UTC] PHP Parse error:  syntax error, unexpected ''tbl_classified_list' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/User.php on line 877
+[11-Oct-2017 13:03:15 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Home.php on line 233
+[11-Oct-2017 13:03:19 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Home.php on line 233
+[12-Oct-2017 05:44:23 UTC] PHP Fatal error:  Call to undefined function exp_by_lang() in /home/groomedtrail/dev/application/views/user/traillist/traillist.php on line 3
+[12-Oct-2017 05:44:24 UTC] PHP Fatal error:  Call to undefined function exp_by_lang() in /home/groomedtrail/dev/application/views/user/traillist/traillist.php on line 3
+[12-Oct-2017 05:44:25 UTC] PHP Fatal error:  Call to undefined function exp_by_lang() in /home/groomedtrail/dev/application/views/user/traillist/traillist.php on line 3
+[12-Oct-2017 06:30:32 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/groomedtrail/dev/application/controllers/User.php on line 680
+[12-Oct-2017 06:30:34 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/groomedtrail/dev/application/controllers/User.php on line 680
+[12-Oct-2017 06:51:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 445
+[12-Oct-2017 06:51:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 445
+[16-Oct-2017 07:01:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/vacation/vac_list_main.php on line 224
+[16-Oct-2017 07:01:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/vacation/vac_list_main.php on line 224
+[16-Oct-2017 07:01:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/vacation/vac_list_main.php on line 224
+[16-Oct-2017 08:48:33 UTC] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/groomedtrail/dev/application/controllers/Ajax.php on line 553
+[24-Oct-2017 10:59:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 105
+[25-Oct-2017 04:59:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 877
+[25-Oct-2017 05:08:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 460
+[25-Oct-2017 05:45:26 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:45:27 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:45:32 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:45:36 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:46:23 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:47:36 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:47:51 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:47:52 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:47:55 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:47:59 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:48:11 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:08 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:11 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:12 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:14 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:14 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:16 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:16 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:16 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:17 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:18 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:18 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:19 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:49:25 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:53:09 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 05:53:12 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/frontend/login.php on line 198
+[25-Oct-2017 06:53:54 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/groomedtrail/dev/application/views/user/vacationListing/add_vac_business.php on line 214
+[25-Oct-2017 07:59:23 UTC] PHP Parse error:  syntax error, unexpected ''pl' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/views/user/vacationListing/add_vac_business.php on line 57
+[25-Oct-2017 08:59:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/user/vacationListing/add_vac_business.php on line 292
+[25-Oct-2017 09:52:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/user/vacationListing/add_vac_business.php on line 215
+[25-Oct-2017 09:54:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/user/vacationListing/add_vac_business.php on line 219
+[28-Oct-2017 10:44:46 UTC] PHP Warning:  Unterminated comment starting line 191 in /home/groomedtrail/dev/application/views/user/traillist/traillist.php on line 191
+[28-Oct-2017 10:44:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/user/traillist/traillist.php on line 207
+[31-Oct-2017 04:07:04 UTC] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/CodeIgniter.php on line 113
+[31-Oct-2017 04:07:58 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 3200 bytes) in /home/groomedtrail/dev/system/libraries/Upload.php on line 1300
+[31-Oct-2017 06:57:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/User.php on line 772
+[31-Oct-2017 06:57:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/User.php on line 772
+[31-Oct-2017 09:55:57 UTC] PHP Warning:  Unterminated comment starting line 482 in /home/groomedtrail/dev/application/config/form_validation.php on line 482
+[31-Oct-2017 09:55:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/groomedtrail/dev/application/config/form_validation.php on line 483
+[31-Oct-2017 11:04:46 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:05:33 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:05:37 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:07:31 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:07:35 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:07:42 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:07:43 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:09:12 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:09:22 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:10:10 UTC] PHP Parse error:  syntax error, unexpected '$classifiedpage' (T_VARIABLE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 133
+[31-Oct-2017 11:27:20 UTC] PHP Fatal error:  Call to undefined function my_social_footer() in /home/groomedtrail/dev/application/views/include/copyright.php on line 9
+[31-Oct-2017 12:01:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/groomedtrail/dev/application/views/administrator/news/news.php on line 49
+[31-Oct-2017 12:44:54 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 290
+[01-Nov-2017 05:05:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/groomedtrail/dev/application/controllers/Ajax.php on line 376
+[01-Nov-2017 05:05:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/groomedtrail/dev/application/controllers/Ajax.php on line 376
+[01-Nov-2017 05:05:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/groomedtrail/dev/application/controllers/Ajax.php on line 376
+[01-Nov-2017 05:15:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 1102
+[01-Nov-2017 05:15:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/frontend/homepage.php on line 1102
+[01-Nov-2017 08:57:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 611
+[01-Nov-2017 13:21:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 460
+[02-Nov-2017 05:38:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 431
+[02-Nov-2017 10:18:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/groomedtrail/dev/application/views/frontend/vacation/vac_detail.php on line 55
+[02-Nov-2017 10:18:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/groomedtrail/dev/application/views/frontend/vacation/vac_detail.php on line 55
+[03-Nov-2017 10:59:06 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::get_data_rl_join() in /home/groomedtrail/dev/application/controllers/Ajax.php on line 657
+[03-Nov-2017 10:59:15 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::get_data_rl_join() in /home/groomedtrail/dev/application/controllers/Ajax.php on line 657
+[03-Nov-2017 10:59:49 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::get_data_rl_join() in /home/groomedtrail/dev/application/controllers/Ajax.php on line 657
+[03-Nov-2017 11:05:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/Ajax.php on line 676
+[03-Nov-2017 11:37:01 UTC] PHP Fatal error:  Call to undefined method Model::get_data_rl_join_groupby() in /home/groomedtrail/dev/application/controllers/Ajax.php on line 657
+[04-Nov-2017 09:18:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/groomedtrail/dev/application/controllers/Home.php on line 442
+[04-Nov-2017 10:08:08 UTC] PHP Parse error:  syntax error, unexpected ''hotel-min-price' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/groomedtrail/dev/application/views/frontend/vacation/vacationalbuslist.php on line 285
+[04-Nov-2017 12:47:22 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 589
+[04-Nov-2017 12:47:33 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 589
+[06-Nov-2017 09:58:32 UTC] PHP Parse error:  syntax error, unexpected '$hotelEmailId' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 584
+[06-Nov-2017 09:58:42 UTC] PHP Parse error:  syntax error, unexpected '$hotelEmailId' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 584
+[06-Nov-2017 10:12:26 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 607
+[06-Nov-2017 11:32:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 460
+[07-Nov-2017 13:23:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1300
+[09-Nov-2017 06:55:27 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1759
+[09-Nov-2017 11:09:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/Paypal.php on line 186
+[10-Nov-2017 07:04:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/user/updateTrail&TrailReport/update_trail_list.php on line 195
+[10-Nov-2017 07:04:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/user/updateTrail&TrailReport/update_trail_list.php on line 195
+[10-Nov-2017 10:30:55 UTC] PHP Parse error:  syntax error, unexpected '$where' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 729
+[10-Nov-2017 10:30:56 UTC] PHP Parse error:  syntax error, unexpected '$where' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 729
+[10-Nov-2017 10:32:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 460
+[10-Nov-2017 11:37:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/Ajax.php on line 402
+[10-Nov-2017 11:37:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/Ajax.php on line 402
+[17-Nov-2017 04:37:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 456
+[17-Nov-2017 04:37:02 UTC] PHP Parse error:  syntax error, unexpected ''H' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2252
+[17-Nov-2017 04:44:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 456
+[17-Nov-2017 06:09:39 UTC] PHP Fatal error:  Call to undefined method Model::get_all_rl_join() in /home/groomedtrail/dev/application/controllers/Ajax.php on line 476
+[17-Nov-2017 07:20:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/groomedtrail/dev/application/views/administrator/traillist/trailreport.php on line 68
+[17-Nov-2017 07:20:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/groomedtrail/dev/application/views/administrator/traillist/trailreport.php on line 68
+[22-Nov-2017 09:56:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/classified/classified_category.php on line 70
+[23-Nov-2017 05:59:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/frontend/classified/classified.php on line 51
+[29-Nov-2017 09:19:51 UTC] PHP Fatal error:  Using $this when not in object context in /home/groomedtrail/dev/application/helpers/custom_helper.php on line 65
+[29-Nov-2017 09:20:19 UTC] PHP Fatal error:  Using $this when not in object context in /home/groomedtrail/dev/application/helpers/custom_helper.php on line 65
+[29-Nov-2017 09:21:12 UTC] PHP Fatal error:  Using $this when not in object context in /home/groomedtrail/dev/application/helpers/custom_helper.php on line 65
+[30-Nov-2017 12:33:56 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/groomedtrail/dev/application/views/frontend/classified/classified_details.php on line 17
+[30-Nov-2017 12:33:56 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/groomedtrail/dev/application/views/frontend/classified/classified_details.php on line 17
+[30-Nov-2017 12:33:56 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/groomedtrail/dev/application/views/frontend/classified/classified_details.php on line 17
+[01-Dec-2017 05:33:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/classified/classified_category_main.php on line 14
+[01-Dec-2017 05:33:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/classified/classified_category_main.php on line 14
+[01-Dec-2017 10:58:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/Ajax.php on line 1025
+[01-Dec-2017 11:00:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/Ajax.php on line 1025
+[02-Dec-2017 12:12:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/groomedtrail/dev/application/views/frontend/classified/classified_category_main.php on line 17
+[02-Dec-2017 13:13:46 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/classified/classified_category_main.php on line 14
+[02-Dec-2017 13:13:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/classified/classified_category_main.php on line 14
+[02-Dec-2017 13:13:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/classified/classified_category_main.php on line 14
+[02-Dec-2017 13:13:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/classified/classified_category_main.php on line 14
+[02-Dec-2017 13:13:57 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/frontend/classified/classified_category_main.php on line 14
+[04-Dec-2017 09:09:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/groomedtrail/dev/application/views/administrator/classifieds/classifiedslist.php on line 93
+[04-Dec-2017 09:09:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/groomedtrail/dev/application/views/administrator/classifieds/classifiedslist.php on line 93
+[05-Dec-2017 06:28:42 UTC] PHP Fatal error:  Call to undefined method Classifieds::get_lat_long() in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 216
+[05-Dec-2017 06:29:28 UTC] PHP Fatal error:  Call to undefined method Classifieds::insertMultipleImage() in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 235
+[05-Dec-2017 13:23:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:27:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:27:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:27:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:27:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:27:50 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:28:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:28:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:28:44 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:28:56 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:32:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:37:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 19:53:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:41:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:42:00 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:42:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:42:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:42:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:42:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:42:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:42:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:42:56 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:50:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 20:50:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 21:24:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[05-Dec-2017 21:27:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 01:28:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 01:28:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 01:30:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:49:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:49:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:50:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:51:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:54:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:54:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:57:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:57:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:57:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:57:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:57:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:57:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:59:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:59:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:59:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 04:59:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:02:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:02:20 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:02:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:04:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:04:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:04:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:04:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:04:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:05:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:05:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:05:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 538
+[06-Dec-2017 05:54:21 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::last_qury() in /home/groomedtrail/dev/application/controllers/Home.php on line 374
+[06-Dec-2017 05:59:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/models/Model.php on line 242
+[06-Dec-2017 05:59:03 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/groomedtrail/dev/application/models/Model.php on line 242
+[06-Dec-2017 06:09:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/groomedtrail/dev/application/views/user/classifieds/add_classified.php on line 158
+[06-Dec-2017 10:46:52 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 83
+[06-Dec-2017 10:46:56 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 83
+[06-Dec-2017 10:47:30 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 83
+[06-Dec-2017 10:48:04 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 83
+[06-Dec-2017 10:48:06 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 83
+[06-Dec-2017 10:49:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/groomedtrail/dev/application/views/administrator/vacations/vacationlist.php on line 64
+[07-Dec-2017 10:53:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 453
+[07-Dec-2017 11:33:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2244
+[07-Dec-2017 11:34:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 453
+[07-Dec-2017 11:37:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2244
+[07-Dec-2017 12:27:39 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 216
+[07-Dec-2017 12:27:43 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 216
+[08-Dec-2017 07:02:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/User.php on line 755
+[08-Dec-2017 08:01:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/groomedtrail/dev/application/views/frontend/classified/classified_details.php on line 124
+[08-Dec-2017 08:01:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/groomedtrail/dev/application/views/frontend/classified/classified_details.php on line 124
+[08-Dec-2017 08:01:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/groomedtrail/dev/application/views/frontend/classified/classified_details.php on line 124
+[08-Dec-2017 08:01:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/groomedtrail/dev/application/views/frontend/classified/classified_details.php on line 124
+[11-Dec-2017 05:28:53 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/groomedtrail/dev/application/views/administrator/vacations/vacationlist.php on line 89
+[11-Dec-2017 05:28:56 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/groomedtrail/dev/application/views/administrator/vacations/vacationlist.php on line 89
+[18-Dec-2017 12:12:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 430
+[18-Dec-2017 12:52:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 721
+[18-Dec-2017 12:52:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 721
+[18-Dec-2017 12:52:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Ajax.php on line 721
+[19-Dec-2017 12:40:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/User.php on line 430
+[20-Dec-2017 09:29:50 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 224
+[20-Dec-2017 09:30:01 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 224
+[20-Dec-2017 09:30:12 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 224
+[20-Dec-2017 09:30:24 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 224
+[20-Dec-2017 09:30:24 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 224
+[20-Dec-2017 09:30:29 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 224
+[20-Dec-2017 09:31:11 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home/groomedtrail/dev/application/views/user/vacationListing/view_vac_business.php on line 224
+[20-Dec-2017 11:08:16 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/groomedtrail/dev/application/config/routes.php on line 112
+[20-Dec-2017 11:08:20 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/groomedtrail/dev/application/config/routes.php on line 112
+[27-Dec-2017 22:04:45 UTC] PHP Warning:  POST Content-Length of 9863143 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Dec-2017 22:12:56 UTC] PHP Warning:  POST Content-Length of 15802353 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Dec-2017 19:41:38 UTC] PHP Warning:  POST Content-Length of 11939554 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Dec-2017 19:44:00 UTC] PHP Warning:  POST Content-Length of 11379757 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Dec-2017 19:51:28 UTC] PHP Warning:  POST Content-Length of 11381865 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Dec-2017 19:55:51 UTC] PHP Warning:  POST Content-Length of 11381555 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Jan-2018 14:00:15 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/views/include/nav_header.php on line 25
+[11-Jan-2018 05:29:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/groomedtrail/dev/application/views/forum_questions_single.php on line 223
+[11-Jan-2018 06:24:17 UTC] PHP Warning:  Unterminated comment starting line 463 in /home/groomedtrail/dev/application/config/config.php on line 463
+[12-Jan-2018 14:39:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Forum::subscribe_user_list() in /home/groomedtrail/dev/application/controllers/administrator/Forum.php on line 436
+[12-Jan-2018 10:25:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/groomedtrail/dev/application/controllers/frontEnd/Forum.php on line 816
+[12-Jan-2018 10:25:39 UTC] PHP Fatal error:  Call to undefined method Common_model1::get_data() in /home/groomedtrail/dev/application/controllers/frontEnd/Forum.php on line 202
+[14-Jan-2018 05:09:40 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 573
+[14-Jan-2018 05:09:40 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 573
+[14-Jan-2018 05:10:17 UTC] PHP Fatal error:  Out of memory (allocated 2883584) (tried to allocate 1920 bytes) in /home/groomedtrail/dev/system/database/DB_query_builder.php on line 2521
+[15-Jan-2018 05:53:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/include/left_sidebar.php on line 186
+[15-Jan-2018 05:53:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/include/left_sidebar.php on line 186
+[15-Jan-2018 06:21:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2496
+[15-Jan-2018 06:21:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2496
+[16-Jan-2018 02:24:52 UTC] PHP Warning:  POST Content-Length of 8440827 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Jan-2018 02:27:26 UTC] PHP Warning:  POST Content-Length of 8440729 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Jan-2018 06:27:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/include/left_sidebar.php on line 188
+[16-Jan-2018 07:27:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 417
+[17-Jan-2018 17:11:48 UTC] PHP Warning:  POST Content-Length of 10407304 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Jan-2018 17:45:47 UTC] PHP Warning:  POST Content-Length of 10234579 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 01:12:22 UTC] PHP Warning:  POST Content-Length of 11516035 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 01:13:13 UTC] PHP Warning:  POST Content-Length of 11516015 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 07:40:12 UTC] PHP Fatal error:  Call to undefined method Admin::send_mail() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 159
+[22-Jan-2018 07:51:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1275
+[22-Jan-2018 10:38:37 UTC] PHP Warning:  POST Content-Length of 9064048 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 10:39:34 UTC] PHP Warning:  POST Content-Length of 9064048 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 10:41:01 UTC] PHP Warning:  POST Content-Length of 9064048 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 10:57:24 UTC] PHP Warning:  POST Content-Length of 9064048 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 10:58:13 UTC] PHP Warning:  POST Content-Length of 9064018 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 11:05:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/dashboard.php on line 377
+[22-Jan-2018 11:05:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/dashboard.php on line 377
+[22-Jan-2018 11:06:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/dashboard.php on line 331
+[22-Jan-2018 11:06:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/dashboard.php on line 331
+[22-Jan-2018 11:24:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/include/left_sidebar.php on line 191
+[22-Jan-2018 12:01:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/include/left_sidebar.php on line 382
+[22-Jan-2018 12:01:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/include/left_sidebar.php on line 382
+[22-Jan-2018 14:30:22 UTC] PHP Warning:  POST Content-Length of 10690288 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 14:31:16 UTC] PHP Warning:  POST Content-Length of 10689656 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Jan-2018 15:28:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1275
+[24-Jan-2018 05:31:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/groomedtrail/dev/application/views/administrator/usermanagement/userlist.php on line 111
+[24-Jan-2018 06:03:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 388
+[24-Jan-2018 06:17:58 UTC] PHP Parse error:  syntax error, unexpected ''siterole_id' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 821
+[24-Jan-2018 06:18:01 UTC] PHP Parse error:  syntax error, unexpected ''rol' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2499
+[24-Jan-2018 06:26:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 821
+[24-Jan-2018 09:18:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 392
+[24-Jan-2018 09:18:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 824
+[24-Jan-2018 09:18:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1679
+[24-Jan-2018 09:39:16 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 825
+[24-Jan-2018 09:39:17 UTC] PHP Parse error:  syntax error, unexpected ''email_templates' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2153
+[24-Jan-2018 10:01:36 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 47
+[24-Jan-2018 10:06:28 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 50
+[24-Jan-2018 10:06:30 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 50
+[24-Jan-2018 10:06:46 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 50
+[24-Jan-2018 10:06:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2145
+[24-Jan-2018 10:33:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/administrator/usermanagement/edituser.php on line 208
+[24-Jan-2018 10:34:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/administrator/usermanagement/edituser.php on line 208
+[24-Jan-2018 10:34:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/administrator/usermanagement/edituser.php on line 237
+[24-Jan-2018 10:34:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/administrator/usermanagement/edituser.php on line 265
+[24-Jan-2018 10:39:46 UTC] PHP Fatal error:  Cannot redeclare Admin::updateprofile() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 481
+[24-Jan-2018 10:39:48 UTC] PHP Fatal error:  Cannot redeclare Admin::updateprofile() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 481
+[24-Jan-2018 10:39:50 UTC] PHP Fatal error:  Cannot redeclare Admin::updateprofile() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 481
+[24-Jan-2018 10:39:51 UTC] PHP Fatal error:  Cannot redeclare Admin::updateprofile() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 481
+[24-Jan-2018 13:58:43 UTC] PHP Warning:  POST Content-Length of 9066434 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[24-Jan-2018 14:03:13 UTC] PHP Fatal error:  Call to undefined function resize_image() in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 598
+[24-Jan-2018 14:03:48 UTC] PHP Fatal error:  Call to undefined function resize_image() in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 598
+[24-Jan-2018 14:04:04 UTC] PHP Fatal error:  Call to undefined function resize_image() in /home/groomedtrail/dev/application/controllers/administrator/Vacations.php on line 598
+[25-Jan-2018 07:12:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 376
+[25-Jan-2018 07:31:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 800
+[25-Jan-2018 09:10:39 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/groomedtrail/dev/application/views/administrator/traillist/trailreport.php on line 308
+[25-Jan-2018 09:10:42 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/groomedtrail/dev/application/views/administrator/traillist/trailreport.php on line 308
+[25-Jan-2018 09:35:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/views/administrator/dashboard.php on line 458
+[25-Jan-2018 10:27:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 376
+[25-Jan-2018 10:48:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/administrator/usermanagement/addpermision.php on line 21
+[25-Jan-2018 10:48:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/administrator/usermanagement/addpermision.php on line 21
+[25-Jan-2018 10:58:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 375
+[25-Jan-2018 11:58:15 UTC] PHP Fatal error:  Call to undefined function google_credential() in /home/groomedtrail/dev/application/views/include/header_css.php on line 34
+[25-Jan-2018 12:15:27 UTC] PHP Parse error:  syntax error, unexpected ''editnew' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 1626
+[25-Jan-2018 12:21:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2461
+[27-Jan-2018 06:23:52 UTC] PHP Fatal error:  Call to undefined function send_mail() in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 224
+[27-Jan-2018 06:25:20 UTC] PHP Fatal error:  Call to undefined function send_mail() in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 224
+[27-Jan-2018 06:25:39 UTC] PHP Fatal error:  Call to undefined function send_mail() in /home/groomedtrail/dev/application/controllers/Logincheck.php on line 224
+[27-Jan-2018 07:06:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';' in /home/groomedtrail/dev/application/controllers/Login.php on line 33
+[29-Jan-2018 08:59:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2054
+[29-Jan-2018 09:12:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 113
+[29-Jan-2018 09:47:19 UTC] PHP Fatal error:  Call to undefined function role_permission() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 107
+[29-Jan-2018 09:47:51 UTC] PHP Fatal error:  Call to undefined function role_permission() in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 107
+[29-Jan-2018 12:03:49 UTC] PHP Fatal error:  Call to undefined function role_permission() in /home/groomedtrail/dev/application/controllers/administrator/Classifieds.php on line 357
+[30-Jan-2018 05:22:48 UTC] PHP Parse error:  syntax error, unexpected '$getUserEmail' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2564
+[30-Jan-2018 05:24:02 UTC] PHP Parse error:  syntax error, unexpected '$getUserEmail' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2564
+[30-Jan-2018 05:24:07 UTC] PHP Parse error:  syntax error, unexpected '$getUserEmail' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 2564
+[30-Jan-2018 11:08:49 UTC] PHP Warning:  POST Content-Length of 11273721 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jan-2018 11:43:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 389
+[30-Jan-2018 13:06:40 UTC] PHP Parse error:  syntax error, unexpected ''<li><a class="btn btn-default' (T_ENCAPSED_AND_WHITESPACE) in /home/groomedtrail/dev/application/views/administrator/vacations/vacationlist.php on line 283
+[31-Jan-2018 05:00:03 UTC] PHP Fatal error:  Cannot redeclare Notification::rental_expired() in /home/groomedtrail/dev/application/controllers/Notification.php on line 73
+[31-Jan-2018 05:00:03 UTC] PHP Fatal error:  Cannot redeclare Notification::rental_expired() in /home/groomedtrail/dev/application/controllers/Notification.php on line 73
+[01-Feb-2018 05:00:02 UTC] PHP Fatal error:  Cannot redeclare Notification::rental_expired() in /home/groomedtrail/dev/application/controllers/Notification.php on line 73
+[01-Feb-2018 05:00:02 UTC] PHP Fatal error:  Cannot redeclare Notification::rental_expired() in /home/groomedtrail/dev/application/controllers/Notification.php on line 73
+[01-Feb-2018 05:08:51 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/core/Output.php on line 573
+[01-Feb-2018 05:08:55 UTC] PHP Fatal error:  Out of memory (allocated 5505024) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/application/third_party/PHPExcel/Classes/PHPExcel/Worksheet.php on line 2452
+[01-Feb-2018 05:08:55 UTC] PHP Fatal error:  Out of memory (allocated 3670016) (tried to allocate 3072 bytes) in /home/groomedtrail/dev/system/libraries/Form_validation.php on line 311
+[01-Feb-2018 05:08:55 UTC] PHP Fatal error:  Out of memory (allocated 3670016) (tried to allocate 12288 bytes) in /home/groomedtrail/dev/system/libraries/Form_validation.php on line 444
+[02-Feb-2018 00:35:40 UTC] PHP Warning:  POST Content-Length of 11517891 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Feb-2018 00:36:43 UTC] PHP Warning:  POST Content-Length of 11517891 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Feb-2018 00:38:22 UTC] PHP Warning:  POST Content-Length of 11517859 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Feb-2018 00:43:42 UTC] PHP Warning:  POST Content-Length of 11517864 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Feb-2018 01:06:49 UTC] PHP Warning:  POST Content-Length of 11517755 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Feb-2018 05:54:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/views/administrator/include/left_sidebar.php on line 482
+[02-Feb-2018 07:24:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Paypal.php on line 263
+[02-Feb-2018 07:25:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/Paypal.php on line 263
+[03-Feb-2018 10:32:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/groomedtrail/dev/application/views/include/top_header.php on line 5
+[03-Feb-2018 17:16:34 UTC] PHP Warning:  POST Content-Length of 26593137 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Feb-2018 06:14:05 UTC] PHP Fatal error:  Cannot redeclare Notification::rental_expired() in /home/groomedtrail/dev/application/controllers/Notification.php on line 83
+[05-Feb-2018 06:14:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/Notification.php on line 96
+[05-Feb-2018 06:14:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/Notification.php on line 96
+[05-Feb-2018 06:15:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/Notification.php on line 96
+[05-Feb-2018 06:15:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/groomedtrail/dev/application/controllers/Notification.php on line 96
+[05-Feb-2018 06:15:06 UTC] PHP Fatal error:  Call to undefined function sendingMail() in /home/groomedtrail/dev/application/controllers/Notification.php on line 95
+[05-Feb-2018 06:15:25 UTC] PHP Fatal error:  Call to undefined function sendingMail() in /home/groomedtrail/dev/application/controllers/Notification.php on line 95
+[05-Feb-2018 06:15:27 UTC] PHP Fatal error:  Call to undefined function sendingMail() in /home/groomedtrail/dev/application/controllers/Notification.php on line 95
+[05-Feb-2018 07:10:06 UTC] PHP Parse error:  syntax error, unexpected '$advert' (T_VARIABLE) in /home/groomedtrail/dev/application/controllers/Paypal.php on line 138
+[06-Feb-2018 06:57:17 UTC] PHP Fatal error:  Call to undefined method Model::getReview() in /home/groomedtrail/dev/application/controllers/Ajax.php on line 1157
+[06-Feb-2018 12:27:26 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:29:02 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:29:04 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:29:05 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:29:06 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:29:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 392
+[06-Feb-2018 12:29:09 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:29:11 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:29:14 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:29:16 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:30:12 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:30:14 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:30:16 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:30:17 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 446
+[06-Feb-2018 12:30:35 UTC] PHP Parse error:  syntax error, unexpected ''tbl_use' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 813
+[06-Feb-2018 12:38:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/groomedtrail/dev/application/controllers/administrator/Admin.php on line 652
+[22-Feb-2018 11:51:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/Home.php on line 386
+[22-Feb-2018 11:51:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/Home.php on line 386
+[22-Feb-2018 11:51:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/Home.php on line 386
+[22-Feb-2018 11:52:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/Home.php on line 386
+[22-Feb-2018 11:52:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/Home.php on line 386
+[22-Feb-2018 11:52:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/groomedtrail/dev/application/controllers/Home.php on line 386
+[24-Feb-2018 13:10:33 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ')' in /home/groomedtrail/dev/application/config/form_validation.php on line 1014
+[02-Mar-2018 23:13:52 UTC] PHP Warning:  POST Content-Length of 192133240 bytes exceeds the limit of 8388608 bytes in Unknown on line 0

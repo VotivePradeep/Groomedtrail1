@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>UP Trail 417</name>
+	<open>1</open>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff007fff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff8adfb2</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff2ca033</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-A6CEE3-3000-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffe3cea6</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff6fbffd</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff8adfb2</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-A6CEE3-3000-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffe3cea6</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff007fff</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb4781f</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-A6CEE3-3000-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-A6CEE3-3000-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-A6CEE3-3000-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff6fbffd</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb4781f</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff999afb</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff2ca033</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff999afb</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>UP Trail 417 &lt;sup&gt;Segment1&lt;/sup&gt;</name>
+		<styleUrl>#line-A6CEE3-3000-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-86.87655100000001,46.383044 -86.8779,46.384483 -86.878433,46.385734 -86.877878,46.395421 -86.87486699999999,46.397178 -86.875259,46.397805 -86.876031,46.398038 -86.876767,46.398049 -86.877387,46.398471 -86.877392,46.399893 -86.878418,46.40617699999999 -86.878055,46.407134 -86.87832899999999,46.409242 -86.877889,46.411115 -86.87624,46.412203 -86.875721,46.413036 -86.875263,46.414189 -86.87521700000001,46.415837 -86.877942,46.42430300000001 -86.878514,46.42473399999999 -86.880031,46.425422 -86.882459,46.425867 -86.883641,46.426502 -86.88432299999999,46.427514 -86.88553899999999,46.43075799999999 -86.88461100000001,46.434002 -86.891684,46.439462 -86.891955,46.439697 -86.891837,46.44026899999999 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>UP Trail 417 &lt;sup&gt;Segment7&lt;/sup&gt;</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-87.244067,46.482242 -87.244319,46.48241300000001 -87.244669,46.482418 -87.24484,46.48246199999999 -87.245097,46.482626 -87.24514600000001,46.48429399999999 -87.24511099999999,46.48437699999999 -87.24495,46.48449999999999 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>UP Trail 417 &lt;sup&gt;Segment3&lt;/sup&gt;</name>
+		<styleUrl>#msn_ylw-pushpin2</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-87.24495,46.48449999999999 -87.241417,46.48446500000001 -87.221599,46.484265 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>UP Trail 417 &lt;sup&gt;Segment4&lt;/sup&gt;</name>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-87.353847,46.498982 -87.351997,46.49815 -87.309515,46.486266 -87.304149,46.485098 -87.24495,46.48449999999999 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>UP Trail 417 &lt;sup&gt;Segment5&lt;/sup&gt;</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-87.353849,46.498982 -87.355356,46.49966 -87.36312700000001,46.505147 -87.36481499999999,46.506063 -87.371661,46.50977700000001 -87.374802,46.512459 -87.379514,46.51517500000001 -87.383827,46.51815300000001 -87.38412099999999,46.518457 -87.384468,46.518716 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>UP Trail 417 &lt;sup&gt;Segment6&lt;/sup&gt;</name>
+		<styleUrl>#msn_ylw-pushpin4</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-87.38446999999999,46.518715 -87.38456499999999,46.518481 -87.385357,46.517847 -87.385594,46.517671 -87.385666,46.51746299999999 -87.38599000000001,46.516003 -87.386022,46.514966 -87.386588,46.513286 -87.386916,46.512778 -87.38741400000001,46.513138 -87.389045,46.512665 -87.389448,46.512559 -87.38994700000001,46.512621 -87.389973,46.51323300000001 -87.39046500000001,46.513756 -87.39122500000001,46.51439 -87.39371800000001,46.514619 -87.39385299999999,46.514397 -87.393637,46.51375699999999 -87.39479300000001,46.513481 -87.39588500000001,46.513905 -87.40208800000001,46.513847 -87.402998,46.513638 -87.40336600000001,46.513331 -87.403817,46.513229 -87.40454800000001,46.513298 -87.405261,46.51313399999999 -87.40635,46.51305200000001 -87.406576,46.512949 -87.406503,46.51273900000001 -87.405962,46.51235599999999 -87.40577399999999,46.511989 -87.405708,46.51153799999999 -87.405946,46.511008 -87.410556,46.51096400000001 -87.411185,46.511194 -87.412122,46.51129599999999 -87.41346799999999,46.510976 -87.414438,46.511176 -87.415257,46.510595 -87.415288,46.51059300000001 -87.416296,46.510558 -87.41804,46.510767 -87.41922700000001,46.510794 -87.42101,46.510627 -87.42104999999999,46.510627 -87.422348,46.510471 -87.423821,46.510356 -87.42506400000001,46.510342 -87.427469,46.510448 -87.42975300000001,46.510476 -87.430824,46.51023600000001 -87.431712,46.509805 -87.432357,46.509287 -87.432906,46.508251 -87.433149,46.507207 -87.433847,46.506484 -87.434545,46.506087 -87.435406,46.505714 -87.436266,46.505632 -87.43741300000001,46.505681 -87.43828000000001,46.505944 -87.438782,46.506218 -87.43977700000001,46.506881 -87.440566,46.507336 -87.441035,46.507473 -87.441593,46.507599 -87.442278,46.50766 -87.44454399999999,46.50758 -87.44524699999999,46.507621 -87.446904,46.507912 -87.448488,46.508493 -87.44891800000001,46.508668 -87.449826,46.509161 -87.451474,46.510191 -87.45184,46.510449 -87.452589,46.510959 -87.454683,46.511811 -87.456615,46.512275 -87.45688199999999,46.512204 -87.456982,46.512099 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>UP Trail 417 &lt;sup&gt;Segment2&lt;/sup&gt;</name>
+		<styleUrl>#msn_ylw-pushpin1</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-86.891837,46.44026899999999 -86.924694,46.453533 -86.950081,46.461512 -86.955727,46.46287199999999 -86.95790700000001,46.46355700000001 -86.959998,46.464842 -86.96263500000001,46.467725 -86.965146,46.469191 -86.96962499999999,46.470549 -86.973607,46.47117200000001 -86.97648100000001,46.47234699999999 -86.983445,46.474349 -86.98585,46.47469900000001 -86.987236,46.474711 -86.9894,46.47442700000001 -86.99200500000001,46.47365499999999 -86.995015,46.472154 -86.99765600000001,46.471508 -87.00004,46.471407 -87.01345600000001,46.47323800000001 -87.04684399999999,46.475879 -87.049525,46.476465 -87.05314,46.477896 -87.083029,46.490692 -87.08528,46.49141999999999 -87.089653,46.492255 -87.093614,46.492494 -87.095949,46.492414 -87.130162,46.48888999999999 -87.13318700000001,46.488823 -87.166653,46.491477 -87.1692,46.491528 -87.171803,46.491136 -87.204966,46.48416499999999 -87.221605,46.484269 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Snowmobile Clubs</name>
+    <Style id="icon-1872-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1872-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1872-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1872-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1872-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1872-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1872-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1872-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1872-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1872-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Lewiston Fun Ones</name>
+      <styleUrl>#icon-1872-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.2444991,44.90438,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harbor Springs Snowmobile Club</name>
+      <styleUrl>#icon-1872-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.928638,45.505182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thumbs Up Snowmobile Club</name>
+      <styleUrl>#icon-1872-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -82.7352104,43.5266861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Antrim County Snowmobile Club</name>
+      <styleUrl>#icon-1872-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.9785721,44.9670297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Petoskey Snowmobile Club</name>
+      <styleUrl>#icon-1872-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.9089871,45.3191527,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>Trail 641</name>
+	<Folder>
+		<Placemark>
+			<name>&lt;Big&gt;Trail 641&lt;/Big&gt;&lt;sup&gt; Segment1 &lt;/sup&gt;</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-84.38970088743116,44.35864415355962,0 -84.39510686208428,44.36025131740234,0 -84.39544131130015,44.36029794657185,0 -84.39634681959205,44.36005716269654,0 -84.39661117955313,44.36017146111203,0 -84.397773034777,44.36168920562972,0 -84.39825982554669,44.36193155251073,0 -84.39867250804696,44.36333775062292,0 -84.40137985288936,44.36347393011795,0 -84.40192246486203,44.36345339904335,0 -84.40227546614534,44.36328051641482,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>Trail 462</name>
+	<Folder>
+		<Placemark>
+			<name>&lt;Big&gt;Trail 462&lt;/Big&gt;&lt;sup&gt; Segment1 &lt;/sup&gt;</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-83.56206233560022,45.05527013210213,0 -83.56205959159024,45.0551197995556,0 -83.56207553864817,45.05474293318554,0 -83.56199381835108,45.05448699125509,0 -83.56191591206789,45.054140929997,0 -83.56191094004981,45.05398502143021,0 -83.56179073061281,45.05381846282467,0 -83.56160926495306,45.05373260151253,0 -83.55841639634559,45.05373026750402,0 -83.55779606809045,45.05362685712812,0 -83.55766962063075,45.05360776405871,0 -83.55755785822441,45.0535151817221,0 -83.55748344695394,45.05154482555901,0 -83.55753563414362,45.04857220575224,0 -83.55722430901182,45.04172258385081,0 -83.55739444763037,45.03918740463433,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

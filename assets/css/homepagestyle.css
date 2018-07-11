@@ -1,0 +1,115 @@
+ .main-modal1 {
+    max-width: 255px;
+    position: fixed;
+    top: 170px;
+    background: #fff;
+    width: 100%;
+    left: 330px;
+}
+.update-trail-modal{
+    max-width: 255px;
+    position: fixed;
+    top: 170px;
+    background: #fff;
+    width: 100%;
+    left: 330px;
+}
+.update-trail-modal1{
+    max-width: 255px;
+    position: fixed;
+    top: 170px;
+    background: #fff;
+    width: 100%;
+    left: 330px;
+}
+p.descCounty {
+width: 100%;
+height: 1px;
+margin: 4px 0;
+padding: 0;
+background: #ccc;
+}
+.tra-in-wndo p.contentTrail {
+margin: 5px 0;
+font-weight: 500;
+text-transform: uppercase;
+}
+.highcharts-credits{
+  display: none;
+}
+.highcharts-title{
+  display: none;
+}
+.highcharts-legend-item{
+  display: none;
+}
+.todayDay{
+  margin-bottom: 10px;
+}
+.half-div-r{
+  margin-top: 15px;
+}
+.sucIcon1{
+ 
+    margin-right: 5px !important;
+    background: #387fcc;
+    border-color: #387fcc;
+    color:#FFFFFF;
+    display: inline-block;
+    margin: 0;
+    padding: 6px 6px;
+    float: left;
+    font-size: 13px;
+}
+/**ok**/
+.show_groomed_trail .modal-dialog {
+    border-radius: 2px !important;
+    max-width: 280px;
+    margin: 35vh auto;
+}
+.show_groomed_trail .modal-content {
+  border-radius: 2px;
+}
+.show_groomed_trail .modal-dialog .modal-body {
+    padding: 20px 10px 10px;
+    text-align: center;
+}
+.show_groomed_trail .modal-dialog .modal-footer {
+    padding: 10px 10px 15px;
+    text-align: center;
+    border: none;
+}
+.show_groomed_trail .modal-dialog .modal-body p {
+    margin: 0;
+    color: #000;
+}
+.show_groomed_trail .modal-dialog .modal-body button.close {
+    color: #000;
+    opacity: 0.8;
+    margin-top: -15px;
+}
+.show_groomed_trail .modal-dialog button.myGroomedBtn {
+  background: #387fcc;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-weight: bold;
+    border: none;
+    box-shadow: none;
+    font-size: 12px;
+}
+.county-heading {
+    background-color: rgba(56, 127, 204, 0.16);
+    padding: 10px;
+    margin: 10px 0;
+}
+.modal-body.listing-body {
+    max-height: 204px;
+    overflow:  hidden;
+}
+.news-feed-sec {
+    position:  relative;
+}
+.listing-body .mCSB_inside>.mCSB_container {
+    margin-right: 18px;
+}

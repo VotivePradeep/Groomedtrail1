@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<!-- Data derived from:
+       Ed Knittel - || tastypopsicle.com
+       Feel free to use this file for your own purposes.
+       Just leave the comments and credits when doing so.
+-->
+  <Document>
+    <name>Chicago Transit Map</name>
+    <description>Chicago Transit Authority train lines</description>
+    
+    <Style id="orangeLine">
+       <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff00ccff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Orange Line</name>
+      <styleUrl>#orangeLine</styleUrl>
+      
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+            <coordinates>
+                75.882917,22.665538,0
+                75.872211,22.685681,0
+                75.865885,22.696506,0
+                75.876325,22.704153,0
+                75.922419,22.819170,0
+                75.903618,22.749368,0
+                75.893696,22.753285,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+   
+  </Document>
+</kml>

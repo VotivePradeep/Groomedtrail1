@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>Trail 340</name>
+	<Folder>
+		<Placemark>
+			<name>&lt;Big&gt;Trail 340&lt;/Big&gt;&lt;sup&gt; Segment1 &lt;/sup&gt;</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-85.88909875440339,44.04576271409763,0 -85.8888038813314,44.04504965050535,0 -85.88598790309408,44.03823913474611,0 -85.88495827335095,44.03690695990309,0 -85.88314347375336,44.0356448313147,0 -85.88286880475482,44.03551032482568,0 -85.88064477066945,44.03490212061462,0 -85.87474634322609,44.03458352845638,0 -85.8747027020674,44.03458116944779,0 -85.87336338519839,44.03445405198568,0 -85.87179024447937,44.03407208059701,0 -85.86643888302478,44.03206518330109,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>&lt;Big&gt;Trail 340&lt;/Big&gt;&lt;sup&gt; Segment2 &lt;/sup&gt;</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-85.88909875440339,44.04576271409763,0 -85.88886170354164,44.04519742204258,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>&lt;Big&gt;Trail 340&lt;/Big&gt;&lt;sup&gt; Segment3 &lt;/sup&gt;</name>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-85.89574683957216,44.06174238319079,0 -85.88978767490795,44.04738812600675,0 -85.88971581264667,44.04723415444698,0 -85.88909875440339,44.04576271409763,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

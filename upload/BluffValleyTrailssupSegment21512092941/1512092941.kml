@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bluff Valley TrailssupSegment2.kml</name>
+	<Style id="trailStyle">
+		<LineStyle>
+			<color>ff1d93f7</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="trailStyle0">
+		<LineStyle>
+			<color>ff1d93f7</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="trailStyle1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#trailStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#trailStyle0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Bluff Valley Trails&lt;sup&gt;Segment2&lt;/sup&gt;</name>
+		<description><![CDATA[<b>Name</b>: Bluff Valley Trails<br/>
+        <b>Contact</b>: Kurt Reicks<br/>
+        <b>Phone number</b>: 507-765-2413<br/>]]></description>
+		<styleUrl>#trailStyle1</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-92.21967600000001,43.597994,0 -92.21959900000002,43.58741,0 -92.219212,43.576703,0 -92.22027,43.575947,0 -92.227199,43.575308,0 -92.23244099999999,43.575344,0 -92.238945,43.575158,0 -92.244294,43.575041,0 -92.24828299999999,43.574687,0 -92.250494,43.573939,0 -92.251879,43.572194,0 -92.25228600000001,43.564726,0 -92.251727,43.559081,0 -92.25027799999999,43.557547,0 -92.24588299999999,43.556984,0 -92.242322,43.556732,0 -92.239199,43.554958,0 -92.235473,43.551197,0 -92.233428,43.547143,0 -92.23284099999999,43.543979,0 -92.23188300000001,43.536765,0 -92.23052800000001,43.536222,0 -92.22934199999999,43.536213,0 -92.20934699999999,43.536229,0 -92.189217,43.537003,0 -92.188081,43.536691,0 -92.187471,43.535314,0 -92.187444,43.529747,0 -92.18697599999999,43.525324,0 -92.18648500000002,43.522881,0 -92.18346300000002,43.521716,0 -92.18011300000001,43.521539,0 -92.177802,43.52198,0 -92.17276699999999,43.522401,0 -92.169939,43.522381,0 -92.16913299999999,43.522221,0 -92.168857,43.520072,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

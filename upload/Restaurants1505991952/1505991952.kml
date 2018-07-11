@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Restaurants</name>
+    <Style id="icon-1577-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1577-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1577-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Baraga Drive-In</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.4980903,46.7660754,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thunderbay Deli</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.1444504,45.0065397,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hilltop Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.4361497,46.7454715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmers Tavern</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -82.7402174,43.71481,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lovell's Riverside Tavern Incorporated]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.4813108,44.806659,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iron Kettle</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.298235,44.884022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Paul's Pub]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.4575629,44.9854767,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Depot</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.4556426,44.9848728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[J & B's Bar & Grill]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.3704987,44.9703287,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Redwood Steak House</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.2934641,44.883428,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Subway</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.2908521,44.8829363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Villager Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.3040817,44.8830731,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Talley's Log Cabin]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.305059,44.883691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Kristie's Kitchen]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.1452205,45.0088852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elk Crossing Cafe</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.1445004,45.0040486,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Subway</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.8928431,45.0575365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Chauncey's Pub]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.9009667,45.0639603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lewiston Hotel Bar and Grill</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.3073264,44.8830175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HI Way Inn</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.9010452,45.0653067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glennie Tavern</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.7254342,44.5611545,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moose Jaw Junction</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.934638,45.593871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nancy Kelly’s Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7841029,45.5542832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cunninghams Family Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.72675,45.781134,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BIG BOY</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.479039,45.630275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Red Door Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.4813223,45.6315856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alanson Depot Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7891605,45.4416933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Paula's Cafe]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.6101091,45.4017508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Breakers Bar & Grill]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.5969926,45.4778232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Wood Winds Restaurant & Pizzeria]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.230531,45.356868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stoney Creek Restaurant-Lounge</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.1933471,45.35752,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Three Cedars Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.0600695,45.3361136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hunan Chinese Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.4768193,45.0610972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chee Peng Chinese Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.4578437,45.0934766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Keg Bar & Grill]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.6989222,44.8797389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Settings Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.8665826,44.914223,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Railside Bar & Grill]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.8554229,45.0632576,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fitzgerald's Restaurant]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.297599,47.415788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Darlene's Restaurant]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -85.1263685,45.1544362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Hide-A-Way Bar</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.9435646,44.8516519,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pier M33 On The Cheboygan</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.473639,45.595794,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Small Town Grill</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7842243,45.5536188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old World Cafe</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -85.0372497,45.6419395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brutus Camp Deli</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7816979,45.4924655,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maple River Resort</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.78065,45.501418,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dutch Oven Shops</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7893672,45.440542,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dead Bear Brewing Co.</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7093997,44.6487682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[McDonald's]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7091508,44.6532574,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Spike's Keg O Nails]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7141256,44.6606272,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tinker's Junction]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7433206,44.6563962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Arby's]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.7112256,44.6012889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Loon's Nest]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -85.3492189,44.5766353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fife Lake Inn</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -85.3484797,44.5764522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Bolton Inn</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.591656,45.1750697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Country Fare Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -86.0739357,42.4044153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Forester Inn</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -82.5687096,43.5000322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Firehouse Pizzeria & Grill]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -82.7696753,43.6715324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stumble inn</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -82.7781345,43.6710951,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Bluffs on Black Lake</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.269547,45.493517,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Club 37</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -85.8433231,44.0440496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[B T's Pub]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -86.1735831,42.0576839,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cut River Inn</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -85.1531152,46.0543127,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Berry Patch</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.8968975,47.4692835,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tamarack Inn Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.892401,47.4688795,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Mariner North Resort</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.88874,47.468262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pines Resort</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.8877497,47.4676152,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harbor Haus Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.8858293,47.4695598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harbor Haus Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.8858293,47.4695598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Denali Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.4062499,47.1976939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Hut Inn</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.4238776,47.2648126,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Gay Bar & Grill]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.1641556,47.2269662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Gemignani's Italian Restaurant]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.5875947,47.1263319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Gino's Restaurant]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.5937907,47.1264823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Hardee's]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.5787162,47.1206873,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hilltop Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.4361497,46.7454715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ambassador Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.5721206,47.1221017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Hardee's]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.5787162,47.1206873,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mosquito Inn</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.7745738,46.9959582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Paul's Restaurant & Lounge]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.5719572,46.8305074,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Roxey's]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.3163771,46.8720942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Syl's Cafe]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.3195311,46.8737512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Twilly's Sports Bar & Grill]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.1787934,46.533794,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Char's Cafe]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.1787668,46.5339206,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[SideTrack Bar & Grill]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.4881051,46.7788569,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Irene's Pizza]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.4973489,46.7647765,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Elk & Hound Restaurant]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -90.1242454,46.4706751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Breakwater Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -90.1502252,46.4629083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pines Cafe</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -90.1683932,46.4548978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ben's Place Restaurant & Ice Cream]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -90.1704192,46.4536286,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ma's Place Cafe]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.942965,46.476733,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Club 28</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.9413123,46.4763634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[West Bay Diner & Delicatessen]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -85.982234,46.669476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Marais Tavern</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -85.9846663,46.6710538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Dunes Saloon Lake Superior Brewing Co.</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -85.9852413,46.6720084,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Applebee's]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.379043,46.463601,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port of Call Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.7280746,45.9987766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Northwood Restaurant & Bar]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.739478,45.998785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mainsail Restaurant</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -83.9019875,45.9963974,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ang-Gio's Restaurant]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -84.3677885,45.9997295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Sherri's Restaurant]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.716475,46.486241,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Buck's Restaurant]]></name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.6689894,46.4887363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
